@@ -1,3 +1,4 @@
 #Ponemos los archivos
 archivoParaIgnorar.py
+.DS_Store
 #Puede ser por extensión (*.py), etc
